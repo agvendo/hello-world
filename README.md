@@ -1,4 +1,3 @@
 # hello-world
 First project
-I dont wanna explain
-okay?
+This is percobaan, it should be in percobaan
